@@ -7,7 +7,7 @@ Images: Any images used in the design.
 README.md: Provides information about the project, how to view the design, and any other relevant details.
 
 # Preview:
-![Nike]()
+![Nike](https://github.com/SANJAYSS-SRM-26/Nike-Shoe-Page-Figma/blob/main/Nike.png)
 
 
 # How to View the Design:
