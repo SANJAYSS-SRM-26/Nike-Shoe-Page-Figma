@@ -7,6 +7,7 @@ Images: Any images used in the design.
 README.md: Provides information about the project, how to view the design, and any other relevant details.
 
 # Preview:
+![Nike]()
 
 
 # How to View the Design:
