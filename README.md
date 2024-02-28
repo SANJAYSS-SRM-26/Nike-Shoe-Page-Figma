@@ -6,7 +6,7 @@ This repository contains the design files for the front page of a Nike shoe e-co
 <br>
 `Nike.png`: Preview of Image.
 <br>
-README.md: Provides information about the project, how to view the design, and any other relevant details.
+`README.md`: Provides information about the project, how to view the design, and any other relevant details.
 
 # Preview:
 ![Nike](https://github.com/SANJAYSS-SRM-26/Nike-Shoe-Page-Figma/blob/main/Nike.png)
