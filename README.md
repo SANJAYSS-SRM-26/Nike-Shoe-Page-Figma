@@ -3,7 +3,9 @@ This repository contains the design files for the front page of a Nike shoe e-co
 
 # Contents:
 Figma Design File: Includes the complete design of the Nike shoe front page.
+<br>
 Images: Any images used in the design.
+<br>
 README.md: Provides information about the project, how to view the design, and any other relevant details.
 
 # Preview:
